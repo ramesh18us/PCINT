@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\AOS_Web_Vugen_HTML_1261_Full
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\aos_web_vugen_html_1261_full\\logfile.log
+c:\aos_web_vugen_html_1261_full\\combined_AOS_Web_Vugen_HTML_1261_Full.c
+c:\aos_web_vugen_html_1261_full\\pre_cci.c

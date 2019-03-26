@@ -1,0 +1,13 @@
+HTTP/1.1 200 
+Server: nginx/1.12.2
+Date: Tue, 26 Mar 2019 21:51:11 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: http://advantageonlineshopping.com:80
+Vary: Origin,Accept-Encoding
+Expires: 0
+Cache-Control: no-store
+Content-Encoding: gzip
+

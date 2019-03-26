@@ -1,0 +1,119 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: {AOS_URL}:{AOS_PORT}",
+                "infFile": "t1.inf",
+                "time": 1553637056740
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: ALL",
+                "infFile": "t3.inf",
+                "time": 1553637057039
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: ALL_2",
+                "infFile": "t4.inf",
+                "time": 1553637057077
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Custom Request: ListAccounts",
+                "infFile": "t5.inf",
+                "time": 1553637057393
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Custom Request: GetAccountConfigurationRequest_3",
+                "infFile": "t8.inf",
+                "time": 1553637057500
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: GetAccountConfigurationRequest_4",
+                "infFile": "t9.inf",
+                "time": 1553637057535
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: categories",
+                "infFile": "t10.inf",
+                "time": 1553637057680
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: search",
+                "infFile": "t11.inf",
+                "time": 1553637057839
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: all_data",
+                "infFile": "t12.inf",
+                "time": 1553637060152
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: popularProducts.json",
+                "infFile": "t13.inf",
+                "time": 1553637060188
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: home-page.html",
+                "infFile": "t14.inf",
+                "time": 1553637060244
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: attributes",
+                "infFile": "t15.inf",
+                "time": 1553637065393
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: category-page.html",
+                "infFile": "t16.inf",
+                "time": 1553637065431
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Url: product-page.html",
+                "infFile": "t17.inf",
+                "time": 1553637065486
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Url: MostPopularComments",
+                "infFile": "t20.inf",
+                "time": 1553637071556
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Url: shoppingCart.html",
+                "infFile": "t21.inf",
+                "time": 1553637071638
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "01_AOS_Home_Page",
+                "rawStartTime": 1553637055041,
+                "rawEndTime": 1553637060245,
+                "thinkTime": 0.0,
+                "wastedTime": 0.4239616394042969
+            },
+            {
+                "transactionName": "02_AOS_Shopping_Cart",
+                "rawStartTime": 1553637065247,
+                "rawEndTime": 1553637071638,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04031848907470703
+            }
+        ]
+    }
+]

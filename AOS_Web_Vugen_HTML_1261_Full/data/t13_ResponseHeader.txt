@@ -1,0 +1,12 @@
+HTTP/1.1 200 
+Accept-Ranges: bytes
+ETag: W/"2323-1541670032000"
+Last-Modified: Thu, 08 Nov 2018 09:40:32 GMT
+Cache-Control: max-age=0
+Expires: Mon, 14 Jan 2019 20:48:47 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Mon, 14 Jan 2019 20:48:47 GMT
+

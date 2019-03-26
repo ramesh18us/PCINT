@@ -1,0 +1,11 @@
+HTTP/1.1 200 
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: http://nimbusserver.aos.com:8000
+Vary: Origin,Accept-Encoding
+Expires: 0
+Cache-Control: no-store
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+Date: Mon, 14 Jan 2019 20:48:53 GMT
+

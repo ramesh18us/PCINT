@@ -1,0 +1,18 @@
+HTTP/2.0 200
+Status: 200
+content-type: application/json; charset=utf-8
+access-control-allow-origin: https://www.google.com
+access-control-allow-credentials: true
+x-content-type-options: nosniff
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 26 Mar 2019 21:50:57 GMT
+strict-transport-security: max-age=31536000
+content-security-policy: script-src 'report-sample' 'nonce-QWj+hopB5zbifEABY4SpUw' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/IdentityListAccountsHttp/cspreport;worker-src 'self'
+content-security-policy: script-src 'nonce-QWj+hopB5zbifEABY4SpUw' 'self' 'unsafe-eval' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com;report-uri /_/IdentityListAccountsHttp/cspreport
+content-encoding: gzip
+server: ESF
+x-xss-protection: 1; mode=block
+alt-svc: quic=":443"; ma=2592000; v="46,44,43,39"
+

@@ -1,0 +1,2 @@
+[Hosts]
+localhost=C:\Users\demo\Desktop\AOS_Web_Vugen_HTML_1261\res\localhost_1.eve

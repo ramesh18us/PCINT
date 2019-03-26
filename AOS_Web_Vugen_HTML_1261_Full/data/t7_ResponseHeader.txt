@@ -1,0 +1,11 @@
+HTTP/1.1 200 
+Access-Control-Request-Method: POST, GET, OPTIONS, DELETE
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Key, soapaction
+Expires: 0
+Cache-control: no-store
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Date: Mon, 14 Jan 2019 20:48:46 GMT
+
